@@ -1,0 +1,26 @@
+<annotation>
+	<folder>logo_corp</folder>
+	<filename>logo_0001.jpg</filename>
+	<path>D:\Projects\python\YOLO\data\images\logo_corp\logo_0001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>229</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>logo_corp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>13</ymin>
+			<xmax>176</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

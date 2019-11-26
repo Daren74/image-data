@@ -1,0 +1,26 @@
+<annotation>
+	<folder>logo_corp</folder>
+	<filename>psmc_0009.jpg</filename>
+	<path>D:\Projects\python\YOLO\data\images\logo_corp\psmc_0009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>924</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>logo_corp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>5</ymin>
+			<xmax>91</xmax>
+			<ymax>42</ymax>
+		</bndbox>
+	</object>
+</annotation>
